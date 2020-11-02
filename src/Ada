@@ -1,0 +1,9 @@
+procedure Main is
+    a : Integer;
+    b : Integer;
+    sum : Integer;
+begin
+    a := 244;
+    b := 835;
+    sum := a + b;
+end;
